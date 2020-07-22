@@ -8,3 +8,5 @@ counting the blink numbver via using camera and stating the equivalent number of
 The user should install numpy cv2 and time library and also install pre trained some models ( haarcascade_frontalgace_fefault.xml and haarcascade_eye.xml).THe information about these library and this pre trained model are enormous,
 so this system is easy to use.
 Please do not hesitate to ask me for any further information
+
+This systems includes one raspberry pi 3 b plus, one V2.1 raspberry camera, and one 2x16 LCD. I also uploded haarcascade_frontalgace_fefault.xml and haarcascade_eye.xml. If you make research, you can even train your models.
